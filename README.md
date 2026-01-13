@@ -29,5 +29,17 @@ Developed an interactive OLA ride analytics dashboard using SQL and Power BI to 
 <a href="https://github.com/Anuchith/OLA-Ride-Booking-Analytics-Dashboard-using-SQL-Power-BI/blob/main/Bookings.csv">Dataset</a>
 ## DashBoard
 <img width="1920" height="1080" alt="photo-collage png" src="https://github.com/user-attachments/assets/d5b4ffd9-c74b-423b-86a2-e65bf13c50ce" />
+## Project Insights
+-The analysis shows a strong overall booking performance, with more than half of the total bookings successfully completed during the selected time period.
+-Prime Sedan, Prime SUV, Prime Plus, Mini, and Bike categories contribute almost equally to total booking value, indicating balanced demand across vehicle types.
+-Auto rides have a significantly lower average ride distance, highlighting their suitability for short-distance urban travel.
+-Cash and UPI dominate as the preferred payment methods, together contributing the majority of total revenue, while card-based payments show lower usage.
+-The cancellation rate remains relatively high, with both customer-side and driver-side factors contributing notably to incomplete rides.
+-The most common customer cancellation reasons include drivers not moving toward pickup and changes in travel plans.
+-Driver cancellations are largely due to personal or vehicle-related issues and customer-related concerns.
+-Driver and customer ratings remain stable around 4.0 across all vehicle types, indicating consistent service quality.
+-Ride volume shows daily fluctuations, suggesting demand varies based on time and operational conditions rather than steady growth.
+## Final Conclusion
 
+The project proves how data analytics can identify operational strengths, customer behavior patterns, and improvement opportunities in ride-hailing services using SQL and Power BI.
 
