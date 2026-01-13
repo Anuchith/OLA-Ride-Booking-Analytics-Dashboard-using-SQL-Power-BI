@@ -23,4 +23,11 @@ Developed an interactive OLA ride analytics dashboard using SQL and Power BI to 
 8. Ride Distance Distribution Per Day
 9. Driver Ratings Distribution
 10. Customer vs. Driver Ratings
+## Dashboard Vedio View
+<a href="https://github.com/Anuchith/OLA-Ride-Booking-Analytics-Dashboard-using-SQL-Power-BI/blob/main/OLA%20Ride%20Booking%20Analytics%20Dashboard.mp4">Dashboard Vedio</a>
+## Dataset of Project
+<a href="https://github.com/Anuchith/OLA-Ride-Booking-Analytics-Dashboard-using-SQL-Power-BI/blob/main/Bookings.csv">Dataset</a>
+## DashBoard
+<img width="1920" height="1080" alt="photo-collage png" src="https://github.com/user-attachments/assets/d5b4ffd9-c74b-423b-86a2-e65bf13c50ce" />
+
 
